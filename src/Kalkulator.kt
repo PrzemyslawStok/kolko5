@@ -1,5 +1,5 @@
 class Kalkulator {
-    fun wypiszCos():String{
-        return "Jakiś napis";
+    fun wypiszCos(){
+        println("Jakiś napis")
     }
 }

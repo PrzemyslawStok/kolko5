@@ -6,6 +6,7 @@ fun main(){
     println("${a}-${b}=${a-b}")
 
     val kalkulator = Kalkulator()
+    kalkulator.wypiszCos()
 }
 
 fun dodaj(a: Double, b:Double):Double{
