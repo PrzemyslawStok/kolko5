@@ -38,7 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
@@ -77,26 +77,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1378" height="204" key="GridCell.Tab.0.bottom" timestamp="1585918365259">
+    <state x="184" y="105" width="1071" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585918957708">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1378" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585918365259" />
-    <state width="1378" height="204" key="GridCell.Tab.0.center" timestamp="1585918365258">
+    <state x="184" y="105" width="1071" height="747" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1585918957708" />
+    <state width="1378" height="204" key="GridCell.Tab.0.bottom" timestamp="1585919468041">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1378" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585918365258" />
-    <state width="1378" height="204" key="GridCell.Tab.0.left" timestamp="1585918365257">
+    <state width="1378" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1585919468041" />
+    <state width="1378" height="204" key="GridCell.Tab.0.center" timestamp="1585919468040">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1378" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585918365257" />
-    <state width="1378" height="204" key="GridCell.Tab.0.right" timestamp="1585918365258">
+    <state width="1378" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1585919468040" />
+    <state width="1378" height="204" key="GridCell.Tab.0.left" timestamp="1585919468040">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1378" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585918365258" />
-    <state x="0" y="23" key="SettingsEditor" timestamp="1585918145073">
+    <state width="1378" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1585919468040" />
+    <state width="1378" height="204" key="GridCell.Tab.0.right" timestamp="1585919468041">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="0" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585918145073" />
+    <state width="1378" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585919468041" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1585918946745">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585918946745" />
     <state x="222" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1585914333389">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

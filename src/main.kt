@@ -2,11 +2,11 @@ fun main(){
     val a = 10.0
     val b = 15.0
 
-    println("${a}+${b}=${a+b}")
-    println("${a}-${b}=${a-b}")
+    //println("${a}+${b}=${a+b}")
+    //println("${a}-${b}=${a-b}")
 
     val kalkulator = Kalkulator()
-    kalkulator.wypiszCos()
+    kalkulator.dodaj()
 }
 
 fun dodaj(a: Double, b:Double):Double{
