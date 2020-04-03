@@ -20,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -40,7 +41,7 @@
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -92,6 +93,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1378" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1585914763555" />
+    <state x="0" y="23" key="SettingsEditor" timestamp="1585918145073">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="23" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585918145073" />
     <state x="222" y="219" key="com.intellij.ide.util.TipDialog" timestamp="1585914333389">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
